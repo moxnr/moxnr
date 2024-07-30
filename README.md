@@ -1,3 +1,2 @@
-skiing, surfing or building stuff.
-frontend eng at @Bitrefill
+Lead frontend engineer at @Bitrefill
 
